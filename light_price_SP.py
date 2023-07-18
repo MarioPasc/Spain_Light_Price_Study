@@ -4,7 +4,7 @@ from datetime import date
 import os
 
 #region Datos propios de la solicitud
-TOKEN = "015e8781f5ece93118fff662ab82dcfb41e3c001d8e63538dadb4c99256a3291"
+TOKEN = YOUR_TOKEN
 url = 'https://api.esios.ree.es/indicators/1001'
 headers = {'Accept': 'application/json; application/vnd.esios-api-v2+json',
            'Content-Type': 'application/json',
