@@ -46,8 +46,7 @@ avg_price = np.average(valdates_df.value)
 max_price = np.max(valdates_df.value)
 min_price = np.min(valdates_df.value)
 
-print(f'Fecha: {valdates_df.datetime[0].day}/{valdates_df.datetime[0].month}/{valdates_df.datetime[0].year}\n'
-      f'Precio medio de la luz: ')
+print(f'Fecha: {valdates_df.datetime[0].day}/{valdates_df.datetime[0].month}/{valdates_df.datetime[0].year}\nPrecio medio de la luz: {avg_price}\nPrecio maximo: {max_price}\nPrecio minimo: {min_price}')
 #endregion
 
 #region Visualización del cambio
