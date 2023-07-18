@@ -36,7 +36,7 @@ Para el día 18/07/2023, que es el día en el que se realizó este estudio, el p
 
 A continuación se muestra la gráfica del precio de la luz para el día 18/07/2023:
 
-![Gráfica del precio de la luz](D:\OneDrive\Documentos\imagenespython\precioluz\precioluz.png)
+![Gráfica del precio de la luz]([D:\OneDrive\Documentos\imagenespython\precioluz\precioluz.png](https://github.com/Mawio02/Spain_Light_Price_Study/blob/main/precioluz.png))
 
 ## Contribución
 
@@ -96,7 +96,7 @@ For the day 18/07/2023, which is the day when this study was conducted, the elec
 
 Below is the graph of the electricity price for the day 18/07/2023:
 
-![Electricity Price Graph](D:\OneDrive\Documentos\imagenespython\precioluz\precioluz.png)
+![Electricity Price Graph]([D:\OneDrive\Documentos\imagenespython\precioluz\precioluz.png](https://github.com/Mawio02/Spain_Light_Price_Study/blob/main/precioluz.png))
 
 ## Contribution
 
