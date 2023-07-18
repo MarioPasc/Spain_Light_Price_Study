@@ -28,6 +28,16 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 
 2. Ejecuta el archivo `procesar_datos.py` para procesar los datos del archivo JSON y crear un dataframe. A continuación, se generará una gráfica que muestra el precio de la luz a lo largo del tiempo, así como el precio medio.
 
+## Conclusiones
+
+Para el día 18/07/2023, que es el día en el que se realizó este estudio, el precio de la luz mostró sus mínimos en las primeras horas de la mañana y en las primeras horas de la tarde con un precio medio de 161.33 por Wh (0.1613 por kWh).
+
+## Gráfica del precio de la luz
+
+A continuación se muestra la gráfica del precio de la luz para el día 18/07/2023:
+
+![Gráfica del precio de la luz](D:\OneDrive\Documentos\imagenespython\precioluz\precioluz.png)
+
 ## Contribución
 
 Si deseas contribuir a este proyecto, sigue estos pasos:
@@ -78,6 +88,16 @@ git clone https://github.com/your-username/your-repository.git
 
 2. Run the `procesar_datos.py` file to process the data from the JSON file and create a dataframe. A graph will be generated showing the electricity price over time, as well as the average price.
 
+## Conclusions
+
+For the day 18/07/2023, which is the day when this study was conducted, the electricity price showed its minimums in the early morning and early afternoon with an average price of 161.33 per Wh (0.1613 per kWh).
+
+## Electricity Price Graph
+
+Below is the graph of the electricity price for the day 18/07/2023:
+
+![Electricity Price Graph](D:\OneDrive\Documentos\imagenespython\precioluz\precioluz.png)
+
 ## Contribution
 
 If you wish to contribute to this project, follow these steps:
@@ -88,10 +108,4 @@ If you wish to contribute to this project, follow these steps:
 
 3. Make your changes and commit: `git commit -m "Added new feature"`.
 
-4. Push your changes to your fork: `git push origin new-feature`.
-
-5. Open a Pull Request in this repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+4. Push your changes to your fork: `git push origin new
